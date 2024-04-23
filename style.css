@@ -91,3 +91,26 @@ img {
     background-color: #087d83;
     gap: 50px;
 }
+@media(max-width:1200px){
+    h1{
+        font-size: 5vh;
+    }
+    p{
+        font-size: 2vh;
+    }
+    .controle{
+        width: 30vh;
+        height: 30vh;
+    }
+    .cabesario{
+        font-size: 2.5vh;
+    }
+    .botao{
+        width: 27vh;
+        font-size: 25px;
+        font-weight: 800;
+        text-decoration: none;
+        padding: 15px;
+        margin:  40px 0 40px 0;
+    }
+}
