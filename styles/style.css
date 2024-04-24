@@ -14,27 +14,29 @@ body {
     gap: 50px;
 }
 
-h1 {
-    text-align: center;
-    gap: 50px;
-}
 
 h2 {
     font-size: 40px;
-    color: #066e29;
-}
-
-
-strong {
-    color: #e90bde;
-    font-weight: bold;
+    color: #d60cd6;
+    gap: 50px;
     border: 5px solid #062e30;
     padding: 10px;
-    margin: 10px;
-    font-size: 40px;
-    gap: 50px;
-    text-align: center;
 }
+
+h3 {
+    font-size: 40px;
+    color: #df10cd;
+    gap: 50px;
+}
+
+h4 {
+    font-size: 40px;
+    color: #df10cd;
+    gap: 50px;
+    border: 5px solid #062e30;
+    padding: 10px;
+}
+
 
 p {
     font-family: verdana;
@@ -45,35 +47,21 @@ p {
     text-align: justify;
 }
 
-.sobre-mim {
-    font-family: verdana;
-    font-size: 50px;
-    gap: 50px;
-}
 
 .produtos-foto {
-    width: 500px;
-
+    width: 400px;
     border-radius: 25px;
     border: 5px solid #140808;
-    gap: 50px;
 }
 
 .botao {
     border: solid 5px blue;
-    width: 200px;
+    width: 150px;
     border-radius: 20px;
     color: var(--cor-secundaria);
     background-color: var(--cor-quartearia);
     gap: 50px;
     font-size: 25px;
-}
-
-.Detalhes {
-    gap: 150px;
-    font-size: 30px;
-    color: rgb(9, 9, 226);
-    flex-direction: column;
 }
 
 .titulo-pricipal {
