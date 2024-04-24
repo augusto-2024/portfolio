@@ -91,16 +91,16 @@ p {
     background-color: #087d83;
     gap: 50px;
 }
-@media(max-width: 200px){
+@media(max-width: 600px){
     .rodape{
-        flex-direction: column 500px;
+        flex-direction: column 750px;
         flex-direction: row 1020px
     }
     .titulo-pricipal {
         font-size: 25px;
     }
     .produtos-foto {
-        width: 50%;
+        width: 40%;
     }
 }
 
