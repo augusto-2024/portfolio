@@ -73,6 +73,16 @@ p {
     background-color: rgb(236, 231, 231);
 }
 
+.ul {
+    font-family: verdana;
+    font-size: 30px;
+    flex-direction: column;
+    text-align: left;
+    gap: 50px;
+}
+
+
+
 .rodape {
     padding: 50px;
     color: rgb(10, 10, 10);
